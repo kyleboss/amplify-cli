@@ -18,7 +18,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "amazon-cognito-identity-js": "^3.0.7",
-    "axios": "^0.19.0",
+    "axios": "^1.13.5",
     "cloudform": "^3.5.0",
     "graphql": "^0.13.2",
     "graphql-mapping-template": "3.5.0",
